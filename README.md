@@ -1,4 +1,4 @@
-# template-files
+# Template Files
 Collection of template files ready for immediate use in development projects.
 
 ## Ignore Files
